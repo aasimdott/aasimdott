@@ -1,93 +1,102 @@
 <div align="center">
 
-  <h1>Hi, I'm Muhammad Asim 👋</h1>
-  <p><em>Aspiring Programmer | Self-Taught Learner | Practicing Daily to Become a Pro</em></p>
+# Hi, I'm Muhammad Asim 👋
 
-  <p>📍 Based in Dera Ghazi Khan, Pakistan</p>
+*Aspiring Programmer | Self-Taught Learner | Practicing Daily to Become a Pro*
 
-  <a href="https://aasimdott.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5D4?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="mailto:aasimdott@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-aasimdott@yahoo.com-FF007A?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/aasimdott">
-    <img src="https://img.shields.io/badge/Instagram-@aasimdott-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/aasimdott">
-    <img src="https://img.shields.io/badge/X/Twitter-@aasimdott-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
+📍 **Dera Ghazi Khan, Pakistan**
+
+<a href="https://aasimdott.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5D4?style=for-the-badge&logo=githubpages&logoColor=black"/>
+</a>
+<a href="mailto:aasimdott@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-aasimdott@yahoo.com-FF007A?style=for-the-badge&logo=yahoo&logoColor=white"/>
+</a>
+<a href="https://instagram.com/aasimdott">
+  <img src="https://img.shields.io/badge/Instagram-@aasimdott-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/aasimdott">
+  <img src="https://img.shields.io/badge/X-@aasimdott-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 📖 About Me
+## 🖼️ ASCII Portrait
 
-- <b>Name:</b> Muhammad Asim
-- <b>Status:</b> Dedicated Amateur / Learner
-- <b>Location:</b> D.G. Khan, Pakistan
-- <b>Learning Via:</b> Google, Technical Documentation, Trial & Error
-
-> I don't have a formal engineering degree—I'm an independent, self-guided programming learner. My daily routine is simple: **Google things, read documentation, write code, break things, fix them, and repeat.**
+```text
++++=++++++===-===-=====-+=======+++:-:---::-=====--=
+++++++++=======-=-=======*++=+=+++=:--::----=====--=
++++++++============#%###%%@%#%*=++-::---:---==-==---
++++++++==+===#%%%%%%##%@%%%#%@%%%#--:::-:---=-=====-
++++++++=++=*+#%%@@%%@@@@@@@@%%@%@%%%==:---:=======--
++=++++++++=*%@@@@@@@@%%%%%@@@@%@%@%%%+-::--==-==-=--
+++=++++====%@@@@%#*+++++++*%%@@%%@@%@@%=----======--
+++=+++====+@@@@%*+++++=++++*#%@%@@@@@%%%-:-==-==-=--
+++=++===++=%@@@#*+=======++**#%@%@@@@%#-::-=-==-----
+++++++==+==#@@@##%%#++++*#%%%##%%%%@%*::-----===----
++++++++++==#%%%@@@@@%##%@@@@@@%%%@%%%*+----==-=-----
+++=+++=++==#%%%@@@@@@+=#@@@@@@%%#%%%%%+:::------=---
++++=+++++====*#*++*++=+++%%%%***#*#%=-::------------
+++++++++++++==+#*+++***%#+++++*#@@@#*-::----==-----=
+#+++++++++=====#*+%%%%#%%%%****#@@%#=-:::----=--=---
+++++++++++====%@%*###**####*##%@@@%*-:::--------=---
+++++++++=+=====++#%#*#%####%%%%@%@*--::::-----------
+#%@@@@%+++++====#@%#@@@@@@%%##%@%=::::::------------
+%*+++++++===++#%@@%###%%%%%####%+#*+::::------------
+*++++++++=*=#%*#%%%####%%######%%+*#*++-:-----------
+*+++++==*#*+#+##%%%############%%*-*#=#**+----------
+++++-#=#=##*@@###%%######***+*#%#***+:#+**==*=------
++=*=**##=##%%%=#**#*++*++++++###**++*-#=****-**+=---
+**=#####=%####%#**#*++++++*+*=***%@@%*###-#***#***+-
+*########+%*##%%##*#**++***-*#+%%%%%%####*#=*##**=*=
++#%=####%#%=####*%%##*+++**#**%%%%*#%#####%+#%**##%=
+```
 
 ---
 
-### 🧠 Toolkit & Topics I'm Practicing
+## 📖 About Me
 
-#### Languages & Core Skills
+- 👨‍💻 **Name:** Muhammad Asim
+- 🎓 **Status:** Self-Taught Programmer
+- 📍 **Location:** Dera Ghazi Khan, Pakistan
+- 📚 **Learning:** Google, Documentation, Open Source & Trial-and-Error
+
+> *I don't have a formal engineering degree. I learn by building projects, reading documentation, breaking code, fixing bugs, and improving every single day.*
+
+---
+
+## 🛠️ Languages & Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-#### Tools & Learning Focus
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Bash/Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📚 Active Learning Focus
+## 🚀 Currently Learning
 
-- ⚡ **JavaScript Logic** — Working through loops, arrays, and foundational function structures.
-- 🐍 **Python & Web Scraping** — Exploring automation scripts, BeautifulSoup, and HTTP requests to handle data.
-- 🛠️ **Git & Terminal** — Building confidence using command-line tools for version control.
+- ⚡ JavaScript
+- 🐍 Python Automation & Web Scraping
+- 🌐 Web Development
+- 🛠 Git & GitHub
+- 🐧 Linux
+- 📚 Data Structures & Algorithms
 
 ---
 
 <div align="center">
-  <p><em>"Step-by-step progress ♥"</em></p>
-</div>
-<div align="center">
-  ```text
-@@@@#...................................::::---#@@@@
-@@@@%-::..............:::..:::::-::............*@@@@
-@@@@#....:-------:-=+*+#+**++..    . ..........*@@@@
-@@@@#............:**%#####**#*+           .....#@@@@
-@@@@%----::........=*+######**+----------------#@@@@
-@@@@%*=======------=-**#####%#+-====-----****##%@@@@
-@@@@%*=::::--###=::-=-*+=-+%%#:==+==:..:-#####*#@@@@
-@@@@%#=.:::::***-..:::::::==-..-=+==....-#####=#@@@@
-@@@@%#+..::::**#-..:=+*---=*:..-==--....=##*+*-#@@@@
-@@@@%=*===+++##%*=+%#++#+--#*##====----:*%%%%%-#@@@@
-@@@@@##===+++#**##%##%#++=*%#######=====#%%%##=#@@@@
-@@@@%==-------########%=--*%#######*====*####*=#@@@@
-@@@@#:::::::::#%######%%=-%#######%##--------=-#@@@@
-@@@@#:::::::::#%%#####%%%%%###%%%%%%%#:.:::::::%@@@@
-@@@@#::::::::-##%%#####%%%%###%%%%%%%%#+......*%@@@@
-@@@@#::::::::=%%#%%#%##%%%%##%%%-.:%%%%#*....:#%@@@@
-@@@@#:......::##%%%%%%#%%%%#%%%#.:..:%%##%----#@@@@@
-@@@@#::::.:-:-%%%%%%%%#%%%%%%%%%#..-#####*::::%%@@@@
-@@@@#:..:-:::-%#####%%%%%%%%%%%%%:*######+-:::*@@@@@
-@@@@#.::-:-::-#%%#####%%%%%%%%%%+::-##:...:==#*%@@@@
-@@@@#::---::-=+*#%%#####@@%+*%*:::-+#-::....:=#@@@@@
-@@@@#:------===++*#%#%=--::+*---::+:::.::...=+%@@@@@
-@@@@#:::::::=%%%%%%%%@+=---:%#%+=:#-:...::..###%@@@@
-@@@@#::....:-#%%%%%%%%%*-===-*#*#-##:.::::..*##%@@@@
-@@@@#:::::::-+=+%%%%%%%%#++*##*###=##:::::.*###%@@@@
-@@@@#.::::::=::-%%%%%%%%%%%%%%%%%%###=:::::+%%#%@@@@
 
-  ```
+### 💭 Philosophy
+
+> **"Google • Read Docs • Write Code • Break Things • Fix Them • Repeat."**
+
+⭐ *Thanks for visiting my profile!*
+
 </div>
