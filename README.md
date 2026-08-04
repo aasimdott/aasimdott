@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aasimdott/aasimdott/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/aasimdott/aasimdott/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
