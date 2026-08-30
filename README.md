@@ -4,7 +4,7 @@
 
 *Aspiring Programmer | Self-Taught Learner | Practicing Daily to Become a Pro*
 
-📍 **Dera Ghazi Khan, Pakistan**
+📍 **Pakistan**
 
 <a href="https://aasimdott.github.io/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5D4?style=for-the-badge&logo=githubpages&logoColor=black"/>
@@ -27,7 +27,7 @@
 
 - 👨‍💻 **Name:** Muhammad Asim
 - 🎓 **Status:** Self-Taught Programmer
-- 📍 **Location:** Dera Ghazi Khan, Pakistan
+- 📍 **Location:**Pakistan
 - 📚 **Learning:** Google, Documentation, Open Source & Trial-and-Error
 
 > *I don't have a formal engineering degree. I learn by building projects, reading documentation, breaking code, fixing bugs, and improving every single day.*
