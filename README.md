@@ -27,7 +27,7 @@
 
 - 👨‍💻 **Name:** Muhammad Asim
 - 🎓 **Status:** Self-Taught Programmer
-- 📍 **Location:**Pakistan
+- 📍 **Location:** Pakistan
 - 📚 **Learning:** Google, Documentation, Open Source & Trial-and-Error
 
 > *I don't have a formal engineering degree. I learn by building projects, reading documentation, breaking code, fixing bugs, and improving every single day.*
