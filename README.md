@@ -6,7 +6,7 @@
 
 📍 **Pakistan**
 
-<a href="https://aasimdott.github.io/portfolio">
+<a href="https://aasimdott.site.je/">
   <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5D4?style=for-the-badge&logo=githubpages&logoColor=black"/>
 </a>
 <a href="mailto:aasimdott@yahoo.com">
