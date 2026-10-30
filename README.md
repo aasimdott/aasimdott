@@ -5,9 +5,13 @@
 *Self-taught programmer from Pakistan. Learning backend, grinding DSA.*
  
 <a href="https://aasimdott.site.je/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5D4?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
-<a href="mailto:aasimdott@yahoo.com"><img src="https://img.shields.io/badge/Email-aasimdott@yahoo.com-FF007A?style=for-the-badge&logo=yahoo&logoColor=white"/></a>
-<a href="https://x.com/aasimdott"><img src="https://img.shields.io/badge/X-@aasimdott-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/aasimdott"><img src="https://img.shields.io/badge/Instagram-@aasimdott-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:aasimdott@yahoo.com"><img src="https://img.shields.io/badge/Email-Yahoo-FF007A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJWNmEyIDIgMCAwIDAtMi0yem0wIDQtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4="/></a>
+<a href="https://facebook.com/aasimdott"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://mastodon.social/@aasimdott"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
+<a href="https://t.me/aasimdott"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad-asim-b3602b298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/aasimdott"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/aasimdott"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  
 </div>
 
@@ -27,7 +31,7 @@ No formal degree. I learn by building, reading docs, breaking code and fixing it
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDIxaDE4di0ySDJ2MnpNMjAgOGgtMlY1aDJ2M3ptMC01SDR2MTBhNCA0IDAgMCAwIDQgNGg2YTQgNCAwIDAgMCA0LTR2LTNoMmEyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMnoiLz48L3N2Zz4=)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -48,6 +52,7 @@ No formal degree. I learn by building, reading docs, breaking code and fixing it
   <img src="https://raw.githubusercontent.com/aasimdott/aasimdott/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 <div align="center">
+
 **Read docs • Write code • Break things • Fix them • Repeat**
  
 </div>
