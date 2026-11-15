@@ -49,7 +49,7 @@ No formal degree. I learn by building, reading docs, breaking code and fixing it
 ---
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aasimdott/aasimdott/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aasimdott/aasimdott/14d1a11799f5065cc0b765110d72c0a8a094fd37/output/pacman-contribution-graph-dark.svg" />
 </p>
 <div align="center">
 
