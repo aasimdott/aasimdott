@@ -1,0 +1,38 @@
+
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: aasimdott
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Verify generated files
+        run: |
+          ls -lah output/
+
+      - name: Commit generated files
+        run: |
+          git config user.name aasimdott
+          git config user.email aasimdott@gmail.com
+          git add output/
+          git commit -m "&" || exit 0
+          git push
